@@ -7,6 +7,7 @@ h1 {
     font-size: 60px;
     text-align: center;
     text-decoration-style: initial;
+    font-weight: 100;
 }
 
 li {
@@ -15,14 +16,17 @@ li {
     text-decoration-style: italics;
     font-size: 30px;
     font-style: italic;
+    font-weight: 100;
 }
-img.resize {
-    width: 200px;
-    height: auto;
+img {
+    display: block;
+    margin: 0 auto;
 }
+
 p {
     font-size: 20px;
     font-family: sans-serif;
     font-style: normal;
+    font-weight: 100;
 
 }
