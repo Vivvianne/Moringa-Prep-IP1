@@ -8,6 +8,7 @@ h1 {
     text-align: center;
     text-decoration-style: initial;
     font-weight: 100;
+    font-style: italic;
 }
 
 li {
@@ -28,5 +29,6 @@ p {
     font-family: sans-serif;
     font-style: normal;
     font-weight: 100;
+    font-style: italic;
 
 }
