@@ -10,9 +10,21 @@ h1 {
 
 li {
     display: inline;
-    text-align: left;
-    text-decoration-style: wavy;
+    text-align: center;
+    text-decoration-style: italics;
+    font-size: 80px;
+    font-style: italic;
+}
+img.resize {
+    width: 200px;
+    height: auto;
 }
 img {
-    
+    image-rendering: -moz-crisp-edges;
+}
+p {
+    font-size: 60;
+    font-family: sans-serif;
+    font-style: normal;
+
 }
