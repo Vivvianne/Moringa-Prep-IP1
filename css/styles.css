@@ -6,7 +6,7 @@ h1 {
     font-family: sans-serif;
     font-size: 60px;
     text-align: center;
-    text-decoration-line: line-through;
+    text-decoration-style: initial;
 }
 
 li {
@@ -19,9 +19,6 @@ li {
 img.resize {
     width: 200px;
     height: auto;
-}
-img {
-    image-rendering: -moz-crisp-edges;
 }
 p {
     font-size: 20px;
