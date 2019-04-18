@@ -2,10 +2,10 @@
     margin: 0;
     padding: 0;
 }
-body {
+/* body {
     height: 100%;
     background-color: bisque;
-}
+} */
 
 .container {
     min-height: 100px;
