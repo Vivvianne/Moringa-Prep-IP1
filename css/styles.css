@@ -58,10 +58,18 @@ p {
         font-size: 10px;
     }
 }
+
+hr {
+    text-align: center;
+}
+
 @media screen and (min-width: 480px) {
     background-color: brisque;
     color: white;
 }
-hr {
-    text-align: center;
+@media screen and (max-width: 760px) {
+    p {
+        font-size: 1.5rem;
+        line-height: 1.5;
+    }
 }
